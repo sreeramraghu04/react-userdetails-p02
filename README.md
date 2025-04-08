@@ -20,4 +20,4 @@ User Details is a simple and responsive web application built with React and sty
 
 ## Demo Link
 
-[Live Demo]()
+[Live Demo](https://react-userdetails-p02.netlify.app/)
